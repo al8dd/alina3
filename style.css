@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+p {
+    color: teal;
+}
+#description {
+color: yellow;
+}
+.description{
+    color: green;
+}
+[hreh="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwMU02T1JgNGB0YPBiS8_PT89JBQBASQXT&q=google&oq=go&aqs=chrome.1.69i57j46i199i465i512j0i512l3j69i60l3.1968j0j7&sourceid=chrome&ie=UTF-8"] {
+    color: blue;
+}
+.menu-item-link {
+    color: red;
+}
+.menu.menu-item-link {
+    font-size: 20px;
+    font-weight: 500;
+}
+.menu-secondary.menu-item-link {
+    color: teal;
+}
+.menu-item >.menu-item-link {
+    color: green;
+}
